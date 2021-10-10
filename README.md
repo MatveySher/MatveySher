@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatveySher
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in mobile apps development
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me FB: https://www.facebook.com/matvey.gurskiy.5/
